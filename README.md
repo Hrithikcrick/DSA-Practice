@@ -100,30 +100,6 @@ Example:
 
 ---
 
-## My DSA Routine
-
-1. Pick one problem
-2. Understand the statement
-3. Build intuition
-4. Write simple code
-5. Dry run manually
-6. Add notes and complexity
-7. Push solution to GitHub
-8. Revise later
-
----
-
-## Current Focus
-
-- Greedy
-- Dynamic Programming
-- Linked List
-- Sliding Window
-- Binary Search
-- Graph
-
----
-
 <div align="center">
 
 ## Keep Solving. Keep Improving.
@@ -131,3 +107,4 @@ Example:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 
 </div>
+
