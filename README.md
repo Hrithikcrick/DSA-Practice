@@ -1,8 +1,8 @@
-<div align="center">
+﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=DSA%20Practice%20Hub&fontSize=45&fontAlignY=35&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=DSA%20Practice%20Repository&fontSize=42&fontAlignY=35&animation=fadeIn" />
 
-# ?? DSA Practice Repository
+# DSA Practice Repository
 
 ### Topic-wise DSA solutions with intuition, dry run, complexity, links and company tags
 
@@ -16,62 +16,62 @@
 
 ---
 
-## ?? About This Repository
+## About This Repository
 
 This repository contains my regular DSA practice solutions.
 
 For every problem, I try to maintain:
 
-? Clean solution code  
-? Problem link  
-? Platform name  
-? Topic tag  
-? Company tag  
-? Intuition  
-? Dry run  
-? Time and space complexity  
+- Clean solution code
+- Problem link
+- Platform name
+- Topic tag
+- Company tag
+- Intuition
+- Dry run
+- Time and space complexity
 
 ---
 
-## ?? Topic Wise Practice
+## Topic Wise Practice
 
-| Icon | Topic | Folder |
-|------|-------|--------|
-| ?? | Array | [Array](topics/Array) |
-| ?? | String | [String](topics/String) |
-| ?? | Stack | [Stack](topics/Stack) |
-| ?? | Queue | [Queue](topics/Queue) |
-| ?? | Heap | [Heap](topics/Heap) |
-| ?? | Linked List | [LinkedList](topics/LinkedList) |
-| ?? | Tree | [Tree](topics/Tree) |
-| ??? | Graph | [Graph](topics/Graph) |
-| ?? | Dynamic Programming | [DP](topics/DP) |
-| ?? | Greedy | [Greedy](topics/Greedy) |
-| ?? | Binary Search | [BinarySearch](topics/BinarySearch) |
-| ?? | Sliding Window | [SlidingWindow](topics/SlidingWindow) |
-| ?? | Two Pointers | [TwoPointers](topics/TwoPointers) |
-| ?? | Recursion | [Recursion](topics/Recursion) |
-| ?? | Backtracking | [Backtracking](topics/Backtracking) |
-| ? | Bit Manipulation | [BitManipulation](topics/BitManipulation) |
-| ?? | Math | [Math](topics/Math) |
-| #?? | Hashing | [Hashing](topics/Hashing) |
-| ?? | Trie | [Trie](topics/Trie) |
-| ?? | Sorting | [Sorting](topics/Sorting) |
-| ? | Prefix Sum | [PrefixSum](topics/PrefixSum) |
-| ?? | Monotonic Stack | [MonotonicStack](topics/MonotonicStack) |
-| ?? | Union Find | [UnionFind](topics/UnionFind) |
+| No. | Topic | Folder |
+|----|-------|--------|
+| 1 | Array | [Array](topics/Array) |
+| 2 | String | [String](topics/String) |
+| 3 | Stack | [Stack](topics/Stack) |
+| 4 | Queue | [Queue](topics/Queue) |
+| 5 | Heap | [Heap](topics/Heap) |
+| 6 | Linked List | [LinkedList](topics/LinkedList) |
+| 7 | Tree | [Tree](topics/Tree) |
+| 8 | Graph | [Graph](topics/Graph) |
+| 9 | Dynamic Programming | [DP](topics/DP) |
+| 10 | Greedy | [Greedy](topics/Greedy) |
+| 11 | Binary Search | [BinarySearch](topics/BinarySearch) |
+| 12 | Sliding Window | [SlidingWindow](topics/SlidingWindow) |
+| 13 | Two Pointers | [TwoPointers](topics/TwoPointers) |
+| 14 | Recursion | [Recursion](topics/Recursion) |
+| 15 | Backtracking | [Backtracking](topics/Backtracking) |
+| 16 | Bit Manipulation | [BitManipulation](topics/BitManipulation) |
+| 17 | Math | [Math](topics/Math) |
+| 18 | Hashing | [Hashing](topics/Hashing) |
+| 19 | Trie | [Trie](topics/Trie) |
+| 20 | Sorting | [Sorting](topics/Sorting) |
+| 21 | Prefix Sum | [PrefixSum](topics/PrefixSum) |
+| 22 | Monotonic Stack | [MonotonicStack](topics/MonotonicStack) |
+| 23 | Union Find | [UnionFind](topics/UnionFind) |
 
 ---
 
-## ?? Practice Progress
+## Practice Progress
 
 Check full progress here:
 
-?? [PROGRESS.md](PROGRESS.md)
+[PROGRESS.md](PROGRESS.md)
 
 ---
 
-## ?? Solution Format
+## Solution Format
 
 Each problem usually has two files:
 
@@ -89,7 +89,7 @@ Example:
 
 ---
 
-## ? Platforms
+## Platforms
 
 | Platform | Purpose |
 |---------|---------|
@@ -100,20 +100,20 @@ Example:
 
 ---
 
-## ?? My DSA Routine
+## My DSA Routine
 
-1. Pick one problem  
-2. Understand the statement  
-3. Build intuition  
-4. Write simple code  
-5. Dry run manually  
-6. Add notes and complexity  
-7. Push solution to GitHub  
-8. Revise later  
+1. Pick one problem
+2. Understand the statement
+3. Build intuition
+4. Write simple code
+5. Dry run manually
+6. Add notes and complexity
+7. Push solution to GitHub
+8. Revise later
 
 ---
 
-## ?? Current Focus
+## Current Focus
 
 - Greedy
 - Dynamic Programming
@@ -126,7 +126,7 @@ Example:
 
 <div align="center">
 
-## ? Keep Solving. Keep Improving.
+## Keep Solving. Keep Improving.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 
