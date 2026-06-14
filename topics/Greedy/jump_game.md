@@ -18,7 +18,7 @@ Greedy
 
 ## Companies
 
-Add company names from LeetCode if visible.
+Facebook
 
 ## Intuition
 
