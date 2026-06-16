@@ -6,3 +6,4 @@
 | 14-06-2026 | 3960. Frequency Balance Subarray | Hashing/Subarray | LeetCode Weekly Contest 506 | Medium | Not available | https://leetcode.com/problems/frequency-balance-subarray/description/ | topics/Hashing/frequency_balance_subarray.py |
 | 15-06-2026 | 2095. Delete the Middle Node of a Linked List | Linked List | LeetCode | Medium | Not available | https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/ | topics/LinkedList/delete_middle_node_linked_list.py |
 | 17-06-2026 | 62. Unique Paths | DP/Grid DP | LeetCode | Medium | Not available | https://leetcode.com/problems/unique-paths/description/ | topics/DP/unique_paths.py |
+| 17-06-2026 | 63. Unique Paths II | DP/Grid DP | LeetCode | Medium | Not available | https://leetcode.com/problems/unique-paths-ii/description/ | topics/DP/unique_paths_ii.py |
