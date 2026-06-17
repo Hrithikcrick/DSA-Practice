@@ -7,3 +7,4 @@
 | 15-06-2026 | 2095. Delete the Middle Node of a Linked List | Linked List | LeetCode | Medium | Not available | https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/ | topics/LinkedList/delete_middle_node_linked_list.py |
 | 17-06-2026 | 62. Unique Paths | DP/Grid DP | LeetCode | Medium | Not available | https://leetcode.com/problems/unique-paths/description/ | topics/DP/unique_paths.py |
 | 17-06-2026 | 63. Unique Paths II | DP/Grid DP | LeetCode | Medium | Not available | https://leetcode.com/problems/unique-paths-ii/description/ | topics/DP/unique_paths_ii.py |
+| 17-06-2026 | 3614. Process String with Special Operations II | String/Simulation | LeetCode Daily Question | Hard | Not available | https://leetcode.com/problems/process-string-with-special-operations-ii/description/ | topics/String/process_string_special_operations_ii.py |
