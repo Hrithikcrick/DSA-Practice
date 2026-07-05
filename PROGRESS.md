@@ -12,3 +12,4 @@
 | 25-06-2026 | 494. Target Sum | DP/Recursion/Memoization | LeetCode | Medium | Not available | https://leetcode.com/problems/target-sum/description/ | topics/DP/target_sum.py |
 | 04-07-2026 | 785. Is Graph Bipartite? | Graph/DFS/Coloring | LeetCode | Medium | Not available | https://leetcode.com/problems/is-graph-bipartite/description/ | topics/Graph/is_graph_bipartite.py |
 | 04-07-2026 | 2331. Evaluate Boolean Binary Tree | Tree/DFS/Recursion | LeetCode | Easy | Not available | https://leetcode.com/problems/evaluate-boolean-binary-tree/description/ | topics/Tree/evaluate_boolean_binary_tree.py |
+| 05-07-2026 | 2368. Reachable Nodes With Restrictions | Graph/DFS/Tree | LeetCode | Medium | Not available | https://leetcode.com/problems/reachable-nodes-with-restrictions/description/ | topics/Graph/reachable_nodes_with_restrictions.py |
