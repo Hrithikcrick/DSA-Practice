@@ -13,3 +13,4 @@
 | 04-07-2026 | 785. Is Graph Bipartite? | Graph/DFS/Coloring | LeetCode | Medium | Not available | https://leetcode.com/problems/is-graph-bipartite/description/ | topics/Graph/is_graph_bipartite.py |
 | 04-07-2026 | 2331. Evaluate Boolean Binary Tree | Tree/DFS/Recursion | LeetCode | Easy | Not available | https://leetcode.com/problems/evaluate-boolean-binary-tree/description/ | topics/Tree/evaluate_boolean_binary_tree.py |
 | 05-07-2026 | 2368. Reachable Nodes With Restrictions | Graph/DFS/Tree | LeetCode | Medium | Not available | https://leetcode.com/problems/reachable-nodes-with-restrictions/description/ | topics/Graph/reachable_nodes_with_restrictions.py |
+| 05-07-2026 | 1443. Minimum Time to Collect All Apples in a Tree | Tree/Graph/DFS | LeetCode | Medium | Not available | https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/ | topics/Graph/minimum_time_collect_all_apples.py |
