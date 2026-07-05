@@ -14,3 +14,4 @@
 | 04-07-2026 | 2331. Evaluate Boolean Binary Tree | Tree/DFS/Recursion | LeetCode | Easy | Not available | https://leetcode.com/problems/evaluate-boolean-binary-tree/description/ | topics/Tree/evaluate_boolean_binary_tree.py |
 | 05-07-2026 | 2368. Reachable Nodes With Restrictions | Graph/DFS/Tree | LeetCode | Medium | Not available | https://leetcode.com/problems/reachable-nodes-with-restrictions/description/ | topics/Graph/reachable_nodes_with_restrictions.py |
 | 05-07-2026 | 1443. Minimum Time to Collect All Apples in a Tree | Tree/Graph/DFS | LeetCode | Medium | Not available | https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/ | topics/Graph/minimum_time_collect_all_apples.py |
+| 05-07-2026 | RRDAG. Present for Andrii | Graph/Topological Sort/DAG | CodeChef | 2700+ | Not available | https://www.codechef.com/problems/RRDAG | topics/Graph/present_for_andrii.py |
