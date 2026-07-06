@@ -15,3 +15,4 @@
 | 05-07-2026 | 2368. Reachable Nodes With Restrictions | Graph/DFS/Tree | LeetCode | Medium | Not available | https://leetcode.com/problems/reachable-nodes-with-restrictions/description/ | topics/Graph/reachable_nodes_with_restrictions.py |
 | 05-07-2026 | 1443. Minimum Time to Collect All Apples in a Tree | Tree/Graph/DFS | LeetCode | Medium | Not available | https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/description/ | topics/Graph/minimum_time_collect_all_apples.py |
 | 05-07-2026 | RRDAG. Present for Andrii | Graph/Topological Sort/DAG | CodeChef | 2700+ | Not available | https://www.codechef.com/problems/RRDAG | topics/Graph/present_for_andrii.py |
+| 06-07-2026 | 1466. Reorder Routes to Make All Paths Lead to the City Zero | Graph/DFS/Reversal Counting | LeetCode | Medium | Not available | https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/description/ | topics/Graph/reorder_routes_to_city_zero.py |
