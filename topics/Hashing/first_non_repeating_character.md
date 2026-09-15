@@ -24,13 +24,15 @@ Goldman Sachs
 
 Given a non-empty string `text` containing lowercase English letters, return the first character that occurs exactly once.
 
-The first character is determined by its position in the string, not alphabetically.
+The first character is determined by its position in the original string, not alphabetical order.
 
 If every character repeats, return:
 
     ""
 
-Example:
+### Example 1
+
+Input:
 
     text = "swiss"
 
@@ -38,22 +40,34 @@ Output:
 
     "w"
 
-Because:
+### Example 2
 
-    s -> appears 3 times
-    w -> appears 1 time
-    i -> appears 1 time
+Input:
 
-Although both `w` and `i` occur once, `w` appears first in the original string.
+    text = "aabbc"
+
+Output:
+
+    "c"
+
+### Example 3
+
+Input:
+
+    text = "aabb"
+
+Output:
+
+    ""
 
 ## Intuition
 
-We need the first character whose frequency is exactly 1.
+We need to find the first character whose frequency is exactly 1.
 
-There are two things we need to know:
+We need two things:
 
-1. How many times each character occurs.
-2. Which unique character appears first in the original string.
+1. Frequency of every character.
+2. Original order of characters.
 
 So we use two passes.
 
@@ -65,7 +79,7 @@ For:
 
     text = "swiss"
 
-The frequency map becomes:
+We get:
 
     s -> 3
     w -> 1
@@ -73,12 +87,12 @@ The frequency map becomes:
 
 ### Second Pass
 
-Scan the original string from left to right.
+Traverse the original string from left to right.
 
     s -> frequency 3 -> skip
     w -> frequency 1 -> return "w"
 
-We return immediately because the first frequency-1 character encountered is automatically the first non-repeating character.
+Since we traverse from left to right, the first character with frequency 1 is automatically the first non-repeating character.
 
 If no character has frequency 1, return an empty string.
 
@@ -97,23 +111,19 @@ If no character has frequency 1, return an empty string.
 
             return ""
 
-## Dry Run 1
+## Dry Run
 
 Input:
 
     text = "swiss"
 
-### Build Frequency Map
-
-Start:
+Initially:
 
     freq = {}
 
 Read `s`:
 
-    freq = {
-        's': 1
-    }
+    freq = {'s': 1}
 
 Read `w`:
 
@@ -130,7 +140,7 @@ Read `i`:
         'i': 1
     }
 
-Read next `s`:
+Read `s`:
 
     freq = {
         's': 2,
@@ -146,90 +156,40 @@ Read final `s`:
         'i': 1
     }
 
-Now scan the original string.
+Now traverse the original string.
+
+First character:
 
     c = 's'
     freq['s'] = 3
 
-Not unique, so continue.
+Not unique.
 
-Next:
+Next character:
 
     c = 'w'
     freq['w'] = 1
 
-So return:
+Therefore return:
 
     "w"
 
-## Dry Run 2
-
-Input:
-
-    text = "aabbc"
-
-Frequency map:
-
-    a -> 2
-    b -> 2
-    c -> 1
-
-Scan:
-
-    a -> 2 -> skip
-    a -> 2 -> skip
-    b -> 2 -> skip
-    b -> 2 -> skip
-    c -> 1 -> return "c"
-
-Answer:
-
-    "c"
-
-## Dry Run 3
-
-Input:
-
-    text = "aabb"
-
-Frequency map:
-
-    a -> 2
-    b -> 2
-
-No character has frequency 1.
-
-Return:
-
-    ""
-
 ## Pattern
 
-This is a common two-pass frequency-map pattern:
+Two-Pass Frequency Map
 
-    first pass  -> count frequencies
-    second pass -> use original order
-
-Use this pattern when the problem asks for:
+Use this pattern when a problem asks for:
 
 - first unique character
 - first repeated character
-- first element satisfying a frequency condition
-- frequency information while preserving original order
+- first element with a particular frequency
+- frequency checking while preserving original order
 
 ## Complexity
 
 Let `n` be the length of the string.
 
-First pass:
-
-    O(n)
-
-Second pass:
-
-    O(n)
-
-Total Time Complexity:
+Time Complexity:
 
     O(n)
 
@@ -237,4 +197,4 @@ Space Complexity:
 
     O(1)
 
-Since the string contains only lowercase English letters, the frequency map contains at most 26 keys.
+The string contains only lowercase English letters, so the frequency map can contain at most 26 characters.
