@@ -20,3 +20,4 @@
 | 07-07-2026 | 2290. Minimum Obstacle Removal to Reach Corner | Graph/Matrix/0-1 BFS | LeetCode | Hard | Not available | https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/ | topics/Graph/minimum_obstacle_removal_to_reach_corner.py |
 | 09-07-2026 | 1203. Sort Items by Groups Respecting Dependencies | Graph/Topological Sort | LeetCode | Hard | Not available | https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/description/ | topics/Graph/sort_items_by_groups_respecting_dependencies.py |
 | 11-07-2026 | 752. Open the Lock | Graph/BFS/Shortest Path | LeetCode | Medium | Not available | https://leetcode.com/problems/open-the-lock/description/ | topics/Graph/open_the_lock.py |
+| 15-09-2026 | Minimum Distinct Prefix Cost | Greedy/Hashing/Sorting | Goldman Sachs OA | Medium | Goldman Sachs | OA Practice Problem | topics/Greedy/minimum_distinct_prefix_cost.py |
