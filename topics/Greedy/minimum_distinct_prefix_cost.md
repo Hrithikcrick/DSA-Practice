@@ -2,7 +2,7 @@
 
 ## Problem Link
 
-Goldman Sachs OA Practice Problem
+https://www.fastprep.io/problems/goldman-sachs-minimum-distinct-prefix-cost
 
 ## Platform
 
